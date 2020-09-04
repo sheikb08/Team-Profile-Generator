@@ -9,7 +9,8 @@
   - [Demo](#demo)
   - [Contributors](#contributors)
 
-# Description: I created a software engineering team generator command line application. The application prompts the user for information about the team manager proceed with inquires concerning the desired team members. The user can input any number of team members, and they may be a mix of engineers and interns. This applicated passed all unit tests and when the user has completed building the team, the application creates an HTML file that displays a nicely formatted team roster based on the information provided by the user. 
+## Description : 
+* I created a software engineering team generator command line application. The application prompts the user for information about the team manager proceed with inquires concerning the desired team members. The user can input any number of team members, and they may be a mix of engineers and interns. This applicated passed all unit tests and when the user has completed building the team, the application creates an HTML file that displays a nicely formatted team roster based on the information provided by the user. 
 
 ## Tech/Modules Used :
 
