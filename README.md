@@ -41,7 +41,8 @@ You must perform a "npm install" in the directory hosting the package file and r
 This application can be used to quickly create track team member profiles
 
 # Demo
-![Team Profile Generator](Assets/demo.gif) (images/demo2.gif)
+![Team Profile Generator](Assets/demo.gif) 
+![Team Profile Generator](images/demo2.gif)
 
 ## Screenshot  
 |![HTML Screenshot](Assets/screen1.JPG)
