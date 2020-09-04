@@ -44,7 +44,8 @@ This application can be used to quickly create track team member profiles
 ![Team Profile Generator](Assets/demo.gif) (images/demo2.gif)
 
 ## Screenshot  
-|![Command Line Screenshot](Assets/screen.JPG) 
+|![HTML Screenshot](Assets/screen1.JPG)
+![Command Line Screenshot](Assets/screen2.JPG) 
 
 ## Contributor
 * Brandon Johnson
